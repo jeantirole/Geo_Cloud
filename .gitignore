@@ -1,0 +1,6 @@
+*.pth
+*.pt
+*.zip
+/root/Geo_Cloud/checkpoints/*
+/root/Geo_Cloud/checkpoints
+./checkpoints
